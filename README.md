@@ -8,7 +8,7 @@ An application that uses the Spotify API to extract music in to a CSV file and g
 3. Go to the app's settings to find your client id and client secret.
 4. Insert these credentials to a .env file
 5. Add your playlist link to the spotify_scraper.py file and run to generate a csv file
-6. Run Recommendations.py using your generated playlist to generate recommendations
+6. Run spotify_recommender.ipynb using your generated playlist to generate recommendations
 
 ## Expected Result
 
